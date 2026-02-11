@@ -5,6 +5,7 @@
 h1, h2 {
     font-family: "Orbitron";
     color: rgb(255, 44, 32);
+    letter-spacing: 1px;
 }
 p {
   font-family: "Orbitron", sans-serif;
@@ -17,9 +18,10 @@ p {
     text-shadow: 2px 2px 4px #000000;
     font-size: medium;
     text-align: center;
-    margin-left: 5%;
-    margin-right: 5%;
+    max-width: 70ch;
     font-size: large;
+    line-height: 2;
+    margin: 0 auto;
 }
 iframe {
       width: 100%;
@@ -57,4 +59,13 @@ iframe {
 
 .pb {
     font-size: large;
+}
+.container {
+  width: min(1000px, 95%);
+  margin: 0 auto;
+}
+p { text-indent: 1.2em; }
+.section {
+  padding: 26px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
 }
