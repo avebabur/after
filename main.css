@@ -1,0 +1,60 @@
+* {
+    background-color: rgb(23, 24, 28);
+}
+
+h1, h2 {
+    font-family: "Orbitron";
+    color: rgb(255, 44, 32);
+}
+p {
+  font-family: "Orbitron", sans-serif;
+  font-weight: 400;
+}
+
+
+p {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: large;
+}
+iframe {
+      width: 100%;
+      height: 90vh;
+      border: 1px solid rgb(23, 24, 28);
+      border-radius: 8px;
+}
+
+.title {
+    font-family: "Zalando Sans Expanded";
+    text-align: center;
+    margin: 5% 0% 5% 0%;
+}
+
+.firstwords {
+    font-family: "Zalando Sans Expanded";
+    text-align: center;
+    margin: 5% 0% 5% 0%;
+    text-align: center;
+}
+
+.type {
+    color: aliceblue;
+    text-align: center;
+}
+
+.thanks {
+    font-family: "Cherry Bomb One";
+}
+
+.chapters {
+    text-align: center;
+    margin: 2% 0 2% 0;
+}
+
+.pb {
+    font-size: large;
+}
