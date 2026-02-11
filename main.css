@@ -2,7 +2,7 @@
     background-color: rgb(23, 24, 28);
 }
 
-h1, h2 {
+h1, h2, a {
     font-family: "Orbitron";
     color: rgb(255, 44, 32);
     letter-spacing: 1px;
